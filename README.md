@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JanuGC
 - 👀 I’m interested in learning technical skills and especially in ethical hacking 
-- 🌱 I’m currently learning c language 
+- 🌱 I’m currently learning full stack development 
 - 💞️ I’m looking to collaborate on new projects
 - 📫 contact me through github
 
