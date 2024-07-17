@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning technical skills and especially in ethical hacking 
 - 🌱 I’m currently learning full stack development @NxtWave
 - 💞️ I’m looking to collaborate on new projects
-- 📫 contact me through github
+- 📫 contact me through github https://github.com/JanuGC
 - Contact me through linkedin www.linkedin.com/in/chaitanya-ganagalla
 
 <!---
