@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @JanuGC
+- 👋 Hi, I’m @Chaitanya Ganagalla
 - 👀 I’m interested in learning technical skills and especially in ethical hacking 
-- 🌱 I’m currently learning full stack development 
+- 🌱 I’m currently learning full stack development @NxtWave
 - 💞️ I’m looking to collaborate on new projects
 - 📫 contact me through github
+- Contact me through linkedin www.linkedin.com/in/chaitanya-ganagalla
 
 <!---
 JanuGC/JanuGC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
