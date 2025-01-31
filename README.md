@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chaitanya Ganagalla
-- 👀 I’m interested in learning technical skills and especially in ethical hacking 
+- 👀 I’m interested in learning technical skills
 - 🌱 I’m currently learning full stack development @NxtWave
 - 💞️ I’m looking to collaborate on new projects
 - 📫 contact me through github https://github.com/JanuGC
