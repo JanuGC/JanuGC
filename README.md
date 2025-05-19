@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Chaitanya Ganagalla
-- 👀 I’m interested in learning technical skills
-- 🌱 I’m currently learning full stack development @NxtWave
-- 💞️ I’m looking to collaborate on new projects
+👋 Hi, I'm Chaitanya Ganagalla
+🎓 CSE undergrad | IIT Madras Research Intern (Applied Mechanics & Biomedical)
+👨‍💻 Exploring Full Stack Development, Python, and problem-solving
+🔬 Curious about interdisciplinary tech: OpenCV, MATLAB, Machine Learning
+🌱 Currently building real-world skills @NxtWave
+🤝 Open to learning, collaborating, and contributing to meaningful projects
 - 📫 contact me through github https://github.com/JanuGC
 - Contact me through linkedin www.linkedin.com/in/chaitanya-ganagalla
 
